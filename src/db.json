@@ -1002,6 +1002,26 @@
       "createdAt": "2023-09-11T14:20:31.092Z",
       "status": "ACTIVE",
       "id": 3
+    },
+    {
+      "name": "Tashqi akkumulyator Borofone BJ29 Discovery Edition PD20W, 10000 mA/soat",
+      "price": 390000,
+      "slugify": "tashqi-akkumulyator-borofone-bj29-discovery-edition-pd20w-10000-masoat-7111",
+      "images": [
+        "/uploads/photos_1696180111547.jpg",
+        "/uploads/photos_1696180169072.jpg",
+        "/uploads/photos_1696180170130.jpg",
+        "/uploads/photos_1696180205974.jpg"
+      ],
+      "count": 30,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "6519a7f10f124a73444e2874"
+      },
+      "createdAt": "2023-09-11T13:36:28.986Z",
+      "status": "ACTIVE",
+      "id": 4
     }
   ]
 }
